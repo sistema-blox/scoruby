@@ -2,7 +2,7 @@ PATH
   remote: .
   specs:
     scoruby (0.3.4)
-      nokogiri (>= 1.8.5, < 1.11.0)
+      nokogiri (>= 1.8.5, < 1.13.6)
 
 GEM
   remote: https://rubygems.org/
